@@ -11,5 +11,3 @@ A web application was deployed on AWS using ECS, Code Build, and Pipelines CI/CD
 Database Design: Product Configuration, Policy Issuance, CD Account, and Dynamic Screen Architecture and Schema.
 openCV research and development (Image Processing)
 
-
-https://onlinect-my.sharepoint.com/personal/karthikeyan_jayaraman_citiustech_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fkarthikeyan%5Fjayaraman%5Fcitiustech%5Fcom%2FDocuments%2FRecordings
